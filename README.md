@@ -2,6 +2,8 @@
 
 This is the place where im gonna put all my training materials (coures, workshop, seminar, conference, etc).
 
+Disclaimer: This training materials is for educational purposes only.
+
 [content]
 ## 1. penetration testing
 
@@ -13,5 +15,5 @@ This is the place where im gonna put all my training materials (coures, workshop
 
 #### 1.3.1 web hacking basic (dvwa)
 
-### 1.4 nmap
+### 1.4. nmap
 
