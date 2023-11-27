@@ -17,3 +17,5 @@ Disclaimer: This training materials is for educational purposes only.
 
 ### 1.4. nmap
 
+### 1.5 Metasploit
+
