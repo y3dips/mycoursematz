@@ -21,6 +21,6 @@ Disclaimer: This training materials is for educational purposes only.
 
 ### 1.6 Mobile
 
-#### 1.6.1 [[Android](https://github.com/y3dips/mycoursematz/blob/main/penetration_testing/mobile/mobile-android-app-pentest-basic.pdf)
+#### 1.6.1 [Android](https://github.com/y3dips/mycoursematz/blob/main/penetration_testing/mobile/mobile-android-app-pentest-basic.pdf)
 
 Enjoy \o/
